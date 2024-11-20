@@ -1,7 +1,6 @@
  Introducing JavaKart: Your One-Stop E-Commerce Solution!
 
-I’m excited to share my latest project, JavaKart, an intuitive e-commerce platform built entirely in Java.
-This project showcases my skills in developing a fully functional online shopping experience, from user registration to product checkout.
+I’m excited to share my latest project, JavaKart, an intuitive e-commerce platform built entirely in Java.This project showcases my skills in developing a fully functional online shopping experience, from user registration to product checkout.
 
  Features:
 - User Registration & Login : Secure user authentication with password protection.
